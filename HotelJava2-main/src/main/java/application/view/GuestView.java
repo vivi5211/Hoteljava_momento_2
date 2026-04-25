@@ -80,4 +80,4 @@ public class GuestView {
         guestService.deleteGuestById(
                 FormValidationUtil.validateInt("Ingrese el id del huésped a eliminar"));
     }
-}
+}// Gestion Guest - cforonda

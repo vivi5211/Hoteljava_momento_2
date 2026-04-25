@@ -39,3 +39,4 @@ public class Guest extends Person {
                 "} " + super.toString();
     }
 }
+// Gestion Guest - cforonda
